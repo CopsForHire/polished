@@ -2,6 +2,5 @@ node_modules
 lib
 coverage
 npm-debug.log
-dist
 .DS_Store
 yarn-error.log
